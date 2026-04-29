@@ -43,7 +43,7 @@ This project leverages **deep learning and computer vision** to automate the cla
 - **Data Handling:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
 - **Web Framework:** Flask  
-- **Frontend:** HTML, Bootstrap  
+- **Frontend:** HTML, CSS  
 
 ---
 
